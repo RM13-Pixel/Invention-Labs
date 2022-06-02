@@ -10,9 +10,8 @@ The Linear Motor Invention Kit consists of a series of mechanisms and activities
 
 **1. Main Folder**
 
-   Assembly Video
-
-   Linear Motor Parts List
+	- Assembly Video
+	- Linear Motor Parts List
 
 3D Printer Files
 
