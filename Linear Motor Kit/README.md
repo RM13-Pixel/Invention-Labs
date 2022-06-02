@@ -4,13 +4,14 @@
 
 The Linear Motor Invention Kit consists of a series of mechanisms and activities centered around a reconstruction of the Charles Page “Electromagnetic Engine” patented in 1854. This work was undertaken in consultation with the curators at the Smithsonian’s National Museum of American History. The original patent model housed in the collections of the Smithsonian Institution was used as a reference for the modern-day reconstruction. 
 
-<center>![alt text](http://url/to/img.png)</center>
+<p align="center">
+  <img width="600" height="200" src="https://maketolearn.org/wp-content/uploads/2022/06/Picture6.png">
+</p>
 
 ### File Descriptions
 
 **1. Main Folder**
-- Assembly Video
-- Linear Motor Parts List
+- This folder includes an assembly video that shows how to put the linear motor together and a parts list that describes the materials needed to make the linear motor.
 
 **2. 3D Printer Files**
 - This folder STL files for 3D printing the motor armature, solenoid bobbin, and rubber band winder adapter.
