@@ -12,12 +12,14 @@ The Linear Motor Invention Kit consists of a series of mechanisms and activities
 - Assembly Video
 - Linear Motor Parts List
 
-3D Printer Files
+**2. 3D Printer Files**
+- This folder STL files for 3D printing the motor armature, solenoid bobbin, and rubber band winder adapter.
 
-Instructions
+**3.Instructions**
+- This folder includes documents describing how to assemble the motor, how to wrap a solenoid, a sample lesson plan, and sample assessment questions.
 
-Vector Files
+**4.Vector Files**
+- This folder includes DXF files for laser cutting the inner plate and outer plate for the motor's housing.
 
 ### Support
-
 Email [info@maketolearn.org](mailto:info@maketolearn.org) for questions and further support.
