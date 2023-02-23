@@ -6,9 +6,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        name: Send repo to Dataverse 
+      - name: Send repo to Dataverse 
         uses: IQSS/dataverse-uploader@v1.4
         with:
-      DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
-      DATAVERSE_SERVER: https://demo.dataverse.org/dataverse/rishi_test
-      DATAVERSE_DATASET_DOI: doi:10.70122/FK2/P3LIL3
+          DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
+          DATAVERSE_SERVER: https://demo.dataverse.org/dataverse/rishi_test
+          DATAVERSE_DATASET_DOI: doi:10.70122/FK2/P3LIL3
